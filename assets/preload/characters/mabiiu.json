@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Mabiiu Idle"
+		},
+		{
+			"offsets": [
+				23,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mabiiu Left"
+		},
+		{
+			"offsets": [
+				21,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mabiiu Down"
+		},
+		{
+			"offsets": [
+				-16,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mabiiu Up"
+		},
+		{
+			"offsets": [
+				-18,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mabiiu Right"
+		},
+		{
+			"offsets": [
+				-3,
+				26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "transition",
+			"loop": false,
+			"name": "Mabiiu Transition"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mabiiu",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mabiiu",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		109,
+		247
+	],
+	"camera_position": [
+		-150,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

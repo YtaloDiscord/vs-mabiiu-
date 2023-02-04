@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Mabiiu.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mabiiu IdleMenu0000" x="0" y="0" width="562" height="592" frameX="0" frameY="-37" frameWidth="562" frameHeight="629"/>
+	<SubTexture name="Mabiiu IdleMenu0001" x="0" y="0" width="562" height="592" frameX="0" frameY="-37" frameWidth="562" frameHeight="629"/>
+	<SubTexture name="Mabiiu IdleMenu0002" x="562" y="0" width="552" height="596" frameX="-5" frameY="-33" frameWidth="562" frameHeight="629"/>
+	<SubTexture name="Mabiiu IdleMenu0003" x="562" y="0" width="552" height="596" frameX="-5" frameY="-33" frameWidth="562" frameHeight="629"/>
+	<SubTexture name="Mabiiu IdleMenu0004" x="1114" y="0" width="532" height="626" frameX="-16" frameY="-3" frameWidth="562" frameHeight="629"/>
+	<SubTexture name="Mabiiu IdleMenu0005" x="0" y="626" width="532" height="626" frameX="-16" frameY="-3" frameWidth="562" frameHeight="629"/>
+	<SubTexture name="Mabiiu IdleMenu0006" x="532" y="626" width="532" height="629" frameX="-16" frameY="0" frameWidth="562" frameHeight="629"/>
+	<SubTexture name="Mabiiu IdleMenu0007" x="532" y="626" width="532" height="629" frameX="-16" frameY="0" frameWidth="562" frameHeight="629"/>
+	<SubTexture name="Mabiiu IdleMenu0008" x="532" y="626" width="532" height="629" frameX="-16" frameY="0" frameWidth="562" frameHeight="629"/>
+	<SubTexture name="Mabiiu IdleMenu0009" x="532" y="626" width="532" height="629" frameX="-16" frameY="0" frameWidth="562" frameHeight="629"/>
+	<SubTexture name="Mabiiu IdleMenu0010" x="532" y="626" width="532" height="629" frameX="-16" frameY="0" frameWidth="562" frameHeight="629"/>
+	<SubTexture name="Mabiiu IdleMenu0011" x="532" y="626" width="532" height="629" frameX="-16" frameY="0" frameWidth="562" frameHeight="629"/>
+	<SubTexture name="Mabiiu IdleMenu0012" x="532" y="626" width="532" height="629" frameX="-16" frameY="0" frameWidth="562" frameHeight="629"/>
+</TextureAtlas>

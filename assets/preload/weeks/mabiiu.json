@@ -1,0 +1,32 @@
+{
+	"storyName": "MABIIU, SUA MAE E MT LINDA :D",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		155,
+		109,
+		247
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mabiiu",
+		"bf",
+		"gf-no"
+	],
+	"songs": [
+		[
+			"shorts",
+			"mabiiu",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Mabiiu",
+	"hiddenUntilUnlocked": false
+}
